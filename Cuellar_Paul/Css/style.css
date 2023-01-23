@@ -1,0 +1,53 @@
+body {
+    background-color: #85858A;
+    font-size: 125%;
+
+}
+
+.container-md .col-10,
+.Sujet {
+    font-family: 'Times New Roman', Times, serif;
+    height: auto;
+    background-color: #614F6C;
+    border: 2px solid #000000;
+    border-radius: 15%;
+}
+
+h1 {
+    font-weight: 900;
+}
+
+.Profil img {
+    width: 30%;
+    margin: 2%;
+}
+
+p,
+h4,
+h3,
+h5 {
+    margin-left: 2%;
+}
+
+.Video_interets {
+    display: block;
+    width: 80%;
+    margin: 0 auto 0 auto;
+}
+
+.btn {
+    margin: 0.2ex;
+}
+
+footer {
+    font-family: 'Times New Roman', Times, serif;
+    height: auto;
+    background-color: #614F6C;
+}
+
+.langue {
+    text-decoration: none;
+    color: white;
+    width: 20%;
+
+}
